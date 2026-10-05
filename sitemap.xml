@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- =========================================================================
+     CONSTRUTORA BERTOLINI — sitemap.xml (lista de páginas para o Google)
+     PARA TROCAR O DOMÍNIO: substitua construtorabertolini.com.br em todas
+     as linhas <loc> abaixo pelo domínio final publicado.
+     ========================================================================= -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://construtorabertolini.com.br/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://construtorabertolini.com.br/#portfolio</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://construtorabertolini.com.br/#depoimentos</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://construtorabertolini.com.br/#sobre</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://construtorabertolini.com.br/#contato</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+</urlset>

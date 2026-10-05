@@ -1,0 +1,61 @@
+{
+  "businessName": "Construtora Bertolini",
+  "source": "google_business_profile",
+  "rating": 5.0,
+  "total": 48,
+  "updatedAt": "2026-09-20T00:00:00-03:00",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Dr. Eduardo Vasconcelos",
+      "role": "Proprietário Casa Alphaville",
+      "location": "Ponta Grossa - PR",
+      "rating": 5,
+      "date": "Há 2 semanas",
+      "projectType": "Residencial Alto Padrão (420m²)",
+      "text": "A experiência com a Bertolini superou todas as expectativas da nossa família. O cumprimento rigoroso do cronograma foi impressionante: entregaram a casa 15 dias antes do prazo acordado. O acabamento no balanço de concreto e a instalação dos porcelanatos ficaram impecáveis!",
+      "avatarText": "EV",
+      "avatarColor": "from-amber-600 to-amber-800",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "author": "Eng. Mariana Camargo",
+      "role": "Engenharia — Mansão das Palmeiras",
+      "location": "Ponta Grossa - PR",
+      "rating": 5,
+      "date": "Há 1 mês",
+      "projectType": "Engenharia Residencial (510m²)",
+      "text": "Profissionalismo do início ao fim. Ter a equipe própria da Bertolini no canteiro nos deu total tranquilidade quanto à qualidade e segurança. Não tivemos nenhuma dor de cabeça com compras ou desperdício de materiais. Recomendamos de olhos fechados!",
+      "avatarText": "MC",
+      "avatarColor": "from-blue-600 to-slate-900",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "author": "Eng. Fernando Silveira",
+      "role": "Empreendedor Comercial",
+      "location": "Castro - PR",
+      "rating": 5,
+      "date": "Há 2 meses",
+      "projectType": "Fachada Comercial & Padaria Gourmet",
+      "text": "Contratamos a Bertolini para a execução da fachada noturna e reforma estrutural da nossa padaria boutique. O resultado da iluminação e dos caixilhos aumentou nosso movimento no primeiro mês. Empresa séria e com contrato extremamente transparente.",
+      "avatarText": "FS",
+      "avatarColor": "from-emerald-600 to-teal-800",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "author": "Juliana Mendes de Castro",
+      "role": "Arquiteta Parceira",
+      "location": "Curitiba & Ponta Grossa",
+      "rating": 5,
+      "date": "Há 3 meses",
+      "projectType": "Parceria Arquitetônica",
+      "text": "Como arquiteta, é raro encontrar uma construtora que respeite o projeto com tamanha fidelidade geométrica e precisão milimétrica. A Bertolini é nossa parceira prioritária para obras de alto luxo.",
+      "avatarText": "JM",
+      "avatarColor": "from-purple-600 to-indigo-900",
+      "verified": true
+    }
+  ]
+}

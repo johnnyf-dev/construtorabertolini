@@ -1,0 +1,22 @@
+# =========================================================================
+# REGISTRO DE FONTES E LICENÇAS DE IMAGENS - BERTOLINI CONSTRUÇÕES
+# Todas as imagens são livres para uso comercial e institucional
+# Data de registro: 2026-03-30
+# =========================================================================
+
+# --- FACHADAS DE PADARIAS / OBRAS COMERCIAIS (ILUMINADAS À NOITE) ---
+/assets/images/padaria1.jpg: https://images.pexels.com/photos/30619805/pexels-photo-30619805.jpeg (Pexels License - Free for Commercial Use) | Fachada moderna gourmet iluminada
+/assets/images/padaria2.jpg: https://images.pexels.com/photos/16303701/pexels-photo-16303701.jpeg (Pexels License - Free for Commercial Use) | Fachada boutique contemporânea com iluminação linear
+/assets/images/padaria3.jpg: https://images.pexels.com/photos/28821629/pexels-photo-28821629.jpeg (Pexels License - Free for Commercial Use) | Confeitaria e padaria parisiense noturna
+
+# --- CASAS DE ALTO PADRÃO (EXTERIORES) ---
+/assets/images/obra1.jpg: https://images.pexels.com/photos/8134745/pexels-photo-8134745.jpeg (Pexels License - Free for Commercial Use) | Casa Alphaville - Residencial Alto Padrão com Piscina
+/assets/images/obra2.jpg: https://images.pexels.com/photos/8134750/pexels-photo-8134750.jpeg (Pexels License - Free for Commercial Use) | Mansão das Palmeiras - Sobrado Contemporâneo com Brises
+/assets/images/obra3.jpg: https://images.pexels.com/photos/8134746/pexels-photo-8134746.jpeg (Pexels License - Free for Commercial Use) | Residência Horizonte - Linhas Minimalistas e Pedras Naturais
+/assets/images/obra4.jpg: https://images.pexels.com/photos/6032280/pexels-photo-6032280.jpeg (Pexels License - Free for Commercial Use) | Villa San Giovanni - Pé-direito Duplo e Vidro
+/assets/images/obra5.jpg: https://images.pexels.com/photos/7031412/pexels-photo-7031412.jpeg (Pexels License - Free for Commercial Use) | Casa Vista Verde - Concreto Aparente e Madeira Nobre
+/assets/images/obra6.jpg: https://images.pexels.com/photos/16959786/pexels-photo-16959786.jpeg (Pexels License - Free for Commercial Use) | Mansão dos Lagos - Área Gourmet e Iluminação Cênica
+
+# Licenças adicionais:
+# - Pexels License: https://www.pexels.com/license/ (Livre para uso comercial, sem atribuição obrigatória)
+# - Unsplash License: https://unsplash.com/license (Livre para uso comercial)

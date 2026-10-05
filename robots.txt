@@ -1,0 +1,7 @@
+# =========================================================================
+# CONSTRUTORA BERTOLINI — robots.txt (diz ao Google o que pode indexar)
+# PARA TROCAR O DOMÍNIO: substitua construtorabertolini.com.br pelo final
+# =========================================================================
+User-agent: *
+Allow: /
+Sitemap: https://construtorabertolini.com.br/sitemap.xml

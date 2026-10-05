@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="100%" height="100%">
+  <!-- Selo 1: +20 Anos de Experiência Bertolini -->
+  <defs>
+    <linearGradient id="goldSealGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37" />
+      <stop offset="30%" stop-color="#FFF2A8" />
+      <stop offset="70%" stop-color="#AA820A" />
+      <stop offset="100%" stop-color="#705400" />
+    </linearGradient>
+    <linearGradient id="darkBgGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+    <filter id="sealShadow1" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Fita / Roseta de fundo -->
+  <g filter="url(#sealShadow1)">
+    <!-- Borda denteada de medalha de honra -->
+    <circle cx="80" cy="80" r="70" fill="url(#goldSealGrad1)" stroke="#523E00" stroke-width="1.5" />
+    <circle cx="80" cy="80" r="63" fill="url(#darkBgGrad1)" stroke="url(#goldSealGrad1)" stroke-width="2" />
+    <circle cx="80" cy="80" r="58" fill="none" stroke="url(#goldSealGrad1)" stroke-width="1" stroke-dasharray="2 3" opacity="0.8" />
+  </g>
+
+  <!-- Conteúdo central -->
+  <!-- Estrelas de topo -->
+  <path d="M80 32 L82 37 L87 37 L83 40 L85 45 L80 42 L75 45 L77 40 L73 37 L78 37 Z" fill="#FFD700" />
+  <path d="M68 35 L69.5 38.5 L73.5 38.5 L70.5 41 L72 44.5 L68 42.5 L64 44.5 L65.5 41 L62.5 38.5 L66.5 38.5 Z" fill="#FFD700" opacity="0.85" />
+  <path d="M92 35 L93.5 38.5 L97.5 38.5 L94.5 41 L96 44.5 L92 42.5 L88 44.5 L89.5 41 L86.5 38.5 L90.5 38.5 Z" fill="#FFD700" opacity="0.85" />
+
+  <text x="80" y="70" font-family="'Cinzel', 'Playfair Display', serif" font-size="24" font-weight="900" fill="url(#goldSealGrad1)" text-anchor="middle" letter-spacing="0.5">
+    +20
+  </text>
+  <text x="80" y="85" font-family="'Montserrat', sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">
+    ANOS
+  </text>
+  <text x="80" y="100" font-family="'Montserrat', sans-serif" font-size="7.5" font-weight="700" fill="#E5C158" text-anchor="middle" letter-spacing="1.2">
+    DE EXPERIÊNCIA
+  </text>
+
+  <!-- Faixa inferior -->
+  <path d="M45 112 Q80 120 115 112" stroke="url(#goldSealGrad1)" stroke-width="1.5" fill="none" />
+  <text x="80" y="123" font-family="'Montserrat', sans-serif" font-size="6.5" font-weight="600" fill="#CBD5E1" text-anchor="middle" letter-spacing="1">
+    EXCELÊNCIA &amp; CONFIANÇA
+  </text>
+</svg>

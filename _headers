@@ -1,0 +1,17 @@
+# =====================================================================
+# Construtora Bertolini — cabeçalhos lidos automaticamente pelo Cloudflare Pages
+# (este arquivo vai para dist/ no build; outros hosts simplesmente o ignoram)
+# - assets com hash: cache longo (nunca mudam de nome após build novo)
+# - página inicial: sempre revalidar (garante versão nova após cada deploy)
+# - segurança: anti-MIME-sniffing + referrer restrito + sensores desligados
+# =====================================================================
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), vr=(), ambient-light-sensor=(), battery=(), accelerometer=(), gyroscope=(), magnetometer=()

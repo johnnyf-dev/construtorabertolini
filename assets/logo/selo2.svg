@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="100%" height="100%">
+  <!-- Selo 2: Prêmio de Qualidade Bertolini -->
+  <defs>
+    <linearGradient id="seal2Gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37" />
+      <stop offset="40%" stop-color="#FFF5C0" />
+      <stop offset="70%" stop-color="#AA820A" />
+      <stop offset="100%" stop-color="#664D00" />
+    </linearGradient>
+    <linearGradient id="seal2Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#022C22" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <filter id="sealShadow2" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#sealShadow2)">
+    <!-- Roseta com 12 pontas arredondadas -->
+    <circle cx="80" cy="80" r="70" fill="url(#seal2Gold)" stroke="#453100" stroke-width="1.5" />
+    <circle cx="80" cy="80" r="63" fill="url(#seal2Bg)" stroke="url(#seal2Gold)" stroke-width="2" />
+    <circle cx="80" cy="80" r="58" fill="none" stroke="url(#seal2Gold)" stroke-width="1" stroke-dasharray="3 3" opacity="0.75" />
+  </g>
+
+  <!-- Coroa de Louros estilizada em SVG -->
+  <!-- Ícone de Troféu / Diamante central -->
+  <path d="M80 32 L87 42 L80 50 L73 42 Z" fill="url(#seal2Gold)" />
+  
+  <text x="80" y="68" font-family="'Montserrat', sans-serif" font-size="9" font-weight="800" fill="#E2E8F0" text-anchor="middle" letter-spacing="2.5">
+    PRÊMIO DE
+  </text>
+  <text x="80" y="88" font-family="'Cinzel', 'Playfair Display', serif" font-size="16" font-weight="900" fill="url(#seal2Gold)" text-anchor="middle" letter-spacing="1.5">
+    QUALIDADE
+  </text>
+  
+  <rect x="52" y="94" width="56" height="1.5" fill="url(#seal2Gold)" rx="0.75" />
+  
+  <text x="80" y="107" font-family="'Montserrat', sans-serif" font-size="7.5" font-weight="800" fill="#38BDF8" text-anchor="middle" letter-spacing="1.5">
+    ALTO PADRÃO
+  </text>
+  <text x="80" y="119" font-family="'Montserrat', sans-serif" font-size="6.5" font-weight="600" fill="#94A3B8" text-anchor="middle" letter-spacing="0.8">
+    PONTA GROSSA &amp; PR
+  </text>
+
+  <!-- 5 estrelas base -->
+  <g fill="#FBBF24" transform="translate(80, 130) scale(0.65)">
+    <polygon points="0,-6 1.8,-1.8 6.3,-1.8 2.7,0.8 4,5.4 0,2.6 -4,5.4 -2.7,0.8 -6.3,-1.8 -1.8,-1.8" transform="translate(-24, 0)"/>
+    <polygon points="0,-6 1.8,-1.8 6.3,-1.8 2.7,0.8 4,5.4 0,2.6 -4,5.4 -2.7,0.8 -6.3,-1.8 -1.8,-1.8" transform="translate(-12, 0)"/>
+    <polygon points="0,-6 1.8,-1.8 6.3,-1.8 2.7,0.8 4,5.4 0,2.6 -4,5.4 -2.7,0.8 -6.3,-1.8 -1.8,-1.8" transform="translate(0, 0)"/>
+    <polygon points="0,-6 1.8,-1.8 6.3,-1.8 2.7,0.8 4,5.4 0,2.6 -4,5.4 -2.7,0.8 -6.3,-1.8 -1.8,-1.8" transform="translate(12, 0)"/>
+    <polygon points="0,-6 1.8,-1.8 6.3,-1.8 2.7,0.8 4,5.4 0,2.6 -4,5.4 -2.7,0.8 -6.3,-1.8 -1.8,-1.8" transform="translate(24, 0)"/>
+  </g>
+</svg>

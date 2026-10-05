@@ -1,0 +1,13 @@
+{
+  "name": "Construtora Bertolini — Construindo seu sonho",
+  "short_name": "Bertolini",
+  "description": "Casas de alto padrão em Ponta Grossa e Campos Gerais. Solicite orçamento.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060A14",
+  "theme_color": "#060A14",
+  "icons": [
+    { "src": "/assets/logo/logo-symbol.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/assets/logo/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
